@@ -52,6 +52,7 @@ main{
     flex-direction: column;
 }
 .g{
+     color: azure;
      font-size: 80pt;
      margin-bottom: 4vw;
 }
