@@ -56,8 +56,8 @@ main{
      margin-bottom: 4vw;
 }
 .rectangle{
-    color: black;
-    background-color: gray;
+    color: white;
+    background-color: whitesmoke;
     margin-bottom: 60px;
     width: 600px;
     height: 30px;
@@ -71,8 +71,8 @@ main{
     color: black;
 } */
 .rectangle:hover{
-    background-color:white;
-    color:whitesmoke;
+    background-color:whitesmoke;
+    color:darkred;
 }
 div:hover{
     background-color: white;
