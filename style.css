@@ -1,7 +1,9 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-image: ;
+    background-image:url(gimage.jpg) ;
+    background-position:center ;
+    background-size: cover;
 }
 nav{
     width:100vw;
@@ -54,7 +56,8 @@ main{
      margin-bottom: 4vw;
 }
 .rectangle{
-    background-color: azure;
+    color: white;
+    background-color: black;
     margin-bottom: 60px;
     width: 600px;
     height: 30px;
