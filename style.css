@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: ;
+}
+nav{
+    width:100vw;
+    height: 10vh;
+    background-color:  rgb(138, 138, 138);
+    display: inline-flex;
+    align-items:center;
+   justify-content:flex-end;
+    color: white;
+    
+}
+nav p{
+  
+    font-size: 15px;
+    padding: 9px;
+     margin-right: 23px;
+}
+
+.circle{
+    font-size: medium;
+    margin-right: 40px;
+    background-color: #ef0f0f;
+    width: 40px;
+    height: 40px;
+    border-radius: 230px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.circle:hover{
+   text-decoration: underline;
+}
+.gmail:hover{
+    text-decoration:underline 1px white;
+}
+.img:hover{
+    text-decoration:underline 1px white;
+}
+main{
+    width:100vw;
+    height: 90vh;
+    background-color: rgb(138, 138, 138);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.g{
+     font-size: 80pt;
+     margin-bottom: 4vw;
+}
+.rectangle{
+    background-color: azure;
+    margin-bottom: 60px;
+    width: 600px;
+    height: 30px;
+    border-radius: 100px;
+    text-align: center;
+    padding:20px;
+    font-size:large;
+}
+/* .g:hover{
+    background-color: white;
+    color: black;
+} */
+.rectangle:hover{
+    background-color: black;
+    color:whitesmoke;
+}
+div:hover{
+    background-color: white;
+    color: black;
+}
+
